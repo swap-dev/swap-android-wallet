@@ -87,7 +87,7 @@ public class LoginActivity extends BaseActivity
     private static final String NODES_PREFS_NAME = "nodes";
     private static final String PREF_DAEMON_STAGENET = "daemon_stagenet";
     private static final String PREF_DAEMON_MAINNET = "daemon_mainnet";
-    private static final String DEFAULT_DAEMONLIST_MAINNET = "autonode.xwp.fyi:19950";
+    private static final String DEFAULT_DAEMONLIST_MAINNET = "autonode.swap.foundation:19950";
         
     private NodeInfo node = null;
 
